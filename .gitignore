@@ -51,7 +51,12 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+<<<<<<< HEAD
 #layout
 *.cbp
 *.depend
 *.layout
+=======
+
+
+>>>>>>> 83317a063af942a457be2099a549abc0445d2cb2
