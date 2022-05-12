@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589669885 source:e:\codeblocks\share\codeblocks\programs\numero_sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593371641 source:c:\users\user\desktop\programs\programs\checar_ocorrencia_sequencia\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,28 @@
+
+    for(I = 0; I < Size; I++){
+        for(J = 0; J < Size2; J++){
+            if (Vetor_1[I] != Vetor_2 [J]){
+                VetorF[K] = Vetor_1[I];
+                K++;
+                VetorF[K] = Vetor_2[J];
+                K++;}}}
+
+
+
+
+
+for(J = 0; J < Size2; J++){
+            VetorF[K] = Vetor_2[J];
+            K++;}
+
+        Size = K;
+        K=0;
+
+
+
+
+    for(I = 0; I < Size; I++){
+        for(J = 0; J < Size; J++){
+            if (Vetor_2[I] != VetorF[J]){
+                VetorF[K] == Vetor_2[J];
+                K++;}}}

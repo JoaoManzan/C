@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588863024 source:e:\codeblocks\share\codeblocks\programs\maior numero\main.c
+	<stdio.h>
+	<stdlib.h>
+

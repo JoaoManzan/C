@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584480625 source:e:\codeblocks\share\codeblocks\programs\a_elevado_a_b\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584480625 source:c:\users\user\desktop\programs\programs\a_elevado_a_b\main.c
+	<stdio.h>
+	<stdlib.h>
+

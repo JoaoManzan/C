@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582407641 source:e:\codeblocks\share\codeblocks\programs\bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+

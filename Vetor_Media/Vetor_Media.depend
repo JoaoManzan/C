@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590890842 source:e:\codeblocks\share\codeblocks\programs\vetor_media\main.c
+	<stdio.h>
+	<stdlib.h>
+

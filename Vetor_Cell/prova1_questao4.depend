@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603495004 source:c:\users\user\desktop\facu\segundo semestre\linguagem de programação\códigos\prova1_questao4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603499382 source:c:\users\user\desktop\programs\programs\vetor_cell\main.c
+	<stdio.h>
+	<stdlib.h>
+

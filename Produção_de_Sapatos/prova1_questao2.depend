@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1603567726 source:c:\users\user\desktop\facu\segundo semestre\linguagem de programação\códigos\prova1_questao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1603585310 source:c:\users\user\desktop\programs\programs\produção_de_sapatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

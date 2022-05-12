@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589581828 source:e:\codeblocks\share\codeblocks\programs\horario_jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+

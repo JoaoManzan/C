@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589590236 source:e:\codeblocks\share\codeblocks\programs\pedidos_confeccao\main.c
+	<stdio.h>
+	<stdlib.h>
+
